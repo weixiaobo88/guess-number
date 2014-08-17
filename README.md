@@ -1,4 +1,4 @@
 GuessNumber
 ===========
 
-Guess number game 
+Guess Number Game 
